@@ -375,17 +375,6 @@ $conn->close();
             { title: "Қан мен Тер", author: "Әбдіжәміл Нұрпейісов", genre: "Классика", url: "https://adebiportal.kz/upload/iblock/0d5/0d581f528880c6ae74bf3685d2ef0add.pdf" },
             { title: "Ұшқан ұя", author: "Бауыржан Момышұлы", genre: "Мемуары", url: "https://adebiportal.kz/upload/iblock/5e1/5e13518fb629e466f3a930c56af4d672.pdf"  },
             { title: "Бақытсыз Жамал", author: "Міржақов Дулатұлы", genre: "Романтика", url: "http://dev-s.balatili.kz/uploads/books/c440d23f5b0133c2199ed66e3fb01ffd/%D0%91%D0%90%D2%9A%D0%AB%D0%A2%D0%A1%D0%AB%D0%97%20%D0%96%D0%90%D0%9C%D0%90%D0%9B%20-%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD.pdf"  },
-            { title: "Қар қызы", author: "Оралхан Бөкей", genre: "Драма", url: "#"  },
-            { title: "Ақ кеме", author: "Шыңғыс Айтматов", genre: "Притча", url: "#"  },
-            { title: "ГауҺар тас", author: "Дулат Исабеков", genre: "Драма", url: "#"  },
-            { title: "Сүйекші", author: "Дулат Исабеков", genre: "Драма", url: "#"  },
-            { title: "Қызыл Жебе", author: "Шерхан Мұртаза", genre: "Исторический", url: "#"  },
-            { title: "Балалық шақ", author: "Шыңғыс Айтматов", genre: "Мемуары", url: "#"  },
-            { title: "Аштық жайлаған дала", author: "Сара Камерон", genre: "Исторический", url: "#"  },
-            { title: "Еңлік - Кебек", author: "Мұхтар Әуезов", genre: "Драма", url: "#"  },
-            { title: "Ай мен Айша", author: "Шерхан Мұртаза", genre: "Романтика", url: "#"  },
-            { title: "Дермене", author: "Дулат Исабеков", genre: "Драма", url: "#"  },
-            { title: "Қорғансыздың күні", author: "Мұхтар Әуезов", genre: "Классика", url: "#"  },
             { title: "Ақбілек", author: "Жүсіпбек Аймауытов", genre: "Классика", url: "https://sauap.org/wp-content/uploads/2016/08/Zhusipbek_Aimauytov_Akbilek.pdf"  },
             { title: "Қаһар", author: "Ілияс Есенберлин", genre: "Тарихи", url: "https://pushkinlibrary.kz/exhibitions/esenberlin/docs/3.pdf" }
         ];
