@@ -371,10 +371,10 @@ $conn->close();
         // Ваши книги
         const books = [
             { title: "Махаббат, қызық мол жылдар", author: "Әзілхан Нұршайықов", genre: "Романтика", url: "http://dev-s.balatili.kz/uploads/books/e3c0b8aca955a2e22aa53f053550270c/%D0%9C%D0%B0%D1%85%D0%B0%D0%B1%D0%B1%D0%B0%D1%82%20%D2%9B%D1%8B%D0%B7%D1%8B%D2%9B%20%D0%BC%D0%BE%D0%BB%20%D0%B6%D1%8B%D0%BB%D0%B4%D0%B0%D1%80.pdf" },
-            { title: "Абай Жолы", author: "Мұхтар Әуезов", genre: "Классика", url: "#" },
-            { title: "Қан мен Тер", author: "Әбдіжәміл Нұрпейісов", genre: "Классика", url: "#" },
-            { title: "Ұшқан ұя", author: "Бауыржан Момышұлы", genre: "Мемуары", url: "#"  },
-            { title: "Бақытсыз Жамал", author: "Міржақов Дулатұлы", genre: "Романтика", url: "#"  },
+            { title: "Абай Жолы", author: "Мұхтар Әуезов", genre: "Классика", url: "https://predmet.kz/adebiet/%D0%BA%D1%96%D1%82%D0%B0%D0%BF%D1%82%D0%B0%D1%80/%D0%90%D0%B1%D0%B0%D0%B9%20%D0%B6%D0%BE%D0%BB%D1%8B.1%20%D0%BA%D1%96%D1%82%D0%B0%D0%BF.pdf" },
+            { title: "Қан мен Тер", author: "Әбдіжәміл Нұрпейісов", genre: "Классика", url: "https://adebiportal.kz/upload/iblock/0d5/0d581f528880c6ae74bf3685d2ef0add.pdf" },
+            { title: "Ұшқан ұя", author: "Бауыржан Момышұлы", genre: "Мемуары", url: "https://adebiportal.kz/upload/iblock/5e1/5e13518fb629e466f3a930c56af4d672.pdf"  },
+            { title: "Бақытсыз Жамал", author: "Міржақов Дулатұлы", genre: "Романтика", url: "http://dev-s.balatili.kz/uploads/books/c440d23f5b0133c2199ed66e3fb01ffd/%D0%91%D0%90%D2%9A%D0%AB%D0%A2%D0%A1%D0%AB%D0%97%20%D0%96%D0%90%D0%9C%D0%90%D0%9B%20-%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD.pdf"  },
             { title: "Ұлпан", author: "Ғабит Мүсірепов", genre: "Исторический", url: "#"  },
             { title: "Қар қызы", author: "Оралхан Бөкей", genre: "Драма", url: "#"  },
             { title: "Ақ кеме", author: "Шыңғыс Айтматов", genre: "Притча", url: "#"  },
